@@ -14,4 +14,8 @@
         
         
 
+Date: 2024-03-18
+Author: Gustaw Eriksson
+Email: gustaw.eriksson@ki.se
+
 A premade template for running DESeq2 differential gene expression analysis on bulk RNA-seq data over a time course of sampling.
